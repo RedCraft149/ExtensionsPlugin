@@ -71,6 +71,7 @@ public final class ExtensionsPlugin extends JavaPlugin implements Extensions {
         newMaterial("craft")
                 .parent(ItemStack.of(Material.OAK_PLANKS))
                 .register();
+
     }
 
     private void registerListener(Listener listener) {
