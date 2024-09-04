@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Extensions:lib">
+    <output-path>$MAVEN_REPOSITORY$/org/redcraft/extensions/1.0.0</output-path>
+    <root id="archive" name="Extensions_lib.jar">
+      <element id="module-output" name="Extensions" />
+    </root>
+  </artifact>
+</component>

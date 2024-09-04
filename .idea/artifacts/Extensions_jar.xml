@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Extensions:jar">
+    <output-path>$USER_HOME$/Desktop/minecraft/Spigot-Bukkit/1.21 Extensions/plugins</output-path>
+    <root id="archive" name="Extensions.jar">
+      <element id="module-output" name="Extensions" />
+    </root>
+  </artifact>
+</component>
